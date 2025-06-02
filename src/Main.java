@@ -14,8 +14,8 @@ public class Main {
         int quotient = a / b;
         System.out.println(quotient);
 
-        int remainer = a % b;
-        System.out.println(remainer);
+        int remainder = a % b;
+        System.out.println(remainder);
 
     }
 }
